@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/models/m-4d09d327074d4c099a4099f65d033522/artifacts
+creation_timestamp: 1764849334236
+experiment_id: '761437250831438087'
+last_updated_timestamp: 1764849336674
+model_id: m-4d09d327074d4c099a4099f65d033522
+model_type: null
+name: model
+source_run_id: 2688a025997c459e84659defef0f7d69
+status: 2
+status_message: null

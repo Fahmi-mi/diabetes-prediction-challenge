@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/5bb198d3bc28483dbf0b1bb99ed82e16/artifacts
+end_time: 1764848968809
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: 5bb198d3bc28483dbf0b1bb99ed82e16
+run_name: resilient-panda-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764848939528
+status: 3
+tags: []
+user_id: Axioo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/dce4fdbee01741e4ba3cb0b39fb96516/artifacts
+end_time: 1764848612403
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: dce4fdbee01741e4ba3cb0b39fb96516
+run_name: lgbm_hyperparameter_tuning_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764848612007
+status: 4
+tags: []
+user_id: Axioo

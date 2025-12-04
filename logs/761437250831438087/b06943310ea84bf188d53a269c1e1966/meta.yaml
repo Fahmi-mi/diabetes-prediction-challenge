@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/b06943310ea84bf188d53a269c1e1966/artifacts
+end_time: 1764849613223
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: b06943310ea84bf188d53a269c1e1966
+run_name: thundering-robin-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764849584620
+status: 3
+tags: []
+user_id: Axioo

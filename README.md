@@ -15,7 +15,7 @@ Get-ChildItem -Recurse -Filter ".gitkeep" | Remove-Item -Force
 ```
 
 ```bash
-name . ".gitkeep" -type f -delete
+find . -name '.gitkeep' -delete
 ```
 
 ## 2. MLflow Tracking

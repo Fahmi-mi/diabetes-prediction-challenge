@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/ce22cb43626c4051909c10e99f98c499/artifacts
+end_time: 1764849210985
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: ce22cb43626c4051909c10e99f98c499
+run_name: sedate-snail-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764849195612
+status: 3
+tags: []
+user_id: Axioo

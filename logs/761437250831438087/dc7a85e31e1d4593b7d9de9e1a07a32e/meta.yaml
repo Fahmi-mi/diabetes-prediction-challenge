@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/dc7a85e31e1d4593b7d9de9e1a07a32e/artifacts
+end_time: 1764849295454
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: dc7a85e31e1d4593b7d9de9e1a07a32e
+run_name: dapper-seal-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764849280776
+status: 3
+tags: []
+user_id: Axioo
