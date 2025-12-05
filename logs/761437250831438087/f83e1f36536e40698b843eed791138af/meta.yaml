@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/f83e1f36536e40698b843eed791138af/artifacts
+deleted_time: 1764917898062
 end_time: 1764848612397
 entry_point_name: ''
 experiment_id: '761437250831438087'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f83e1f36536e40698b843eed791138af
 run_name: skillful-croc-551
 source_name: ''

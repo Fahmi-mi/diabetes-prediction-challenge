@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/1e2c6c642e5942eb8eeea968250b5b36/artifacts
+end_time: 1764918205023
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: 1e2c6c642e5942eb8eeea968250b5b36
+run_name: polite-dog-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764918182630
+status: 3
+tags: []
+user_id: Axioo

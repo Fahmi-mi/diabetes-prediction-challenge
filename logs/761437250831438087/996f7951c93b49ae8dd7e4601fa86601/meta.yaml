@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/996f7951c93b49ae8dd7e4601fa86601/artifacts
+end_time: 1764919683638
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: 996f7951c93b49ae8dd7e4601fa86601
+run_name: efficient-mule-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764919660115
+status: 3
+tags: []
+user_id: Axioo

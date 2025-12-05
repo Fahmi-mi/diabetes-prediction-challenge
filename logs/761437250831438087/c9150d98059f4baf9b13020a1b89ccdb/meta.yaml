@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/c9150d98059f4baf9b13020a1b89ccdb/artifacts
+end_time: 1764919400173
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: c9150d98059f4baf9b13020a1b89ccdb
+run_name: caring-hog-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764919378316
+status: 3
+tags: []
+user_id: Axioo
