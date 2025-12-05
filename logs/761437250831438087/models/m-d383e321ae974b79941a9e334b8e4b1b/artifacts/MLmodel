@@ -1,0 +1,78 @@
+artifact_path: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/models/m-d383e321ae974b79941a9e334b8e4b1b/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.13.0
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-d383e321ae974b79941a9e334b8e4b1b
+model_size_bytes: 5945103
+model_uuid: m-d383e321ae974b79941a9e334b8e4b1b
+prompts: null
+run_id: 450c632f1897457d8960a61c3f3aa548
+signature:
+  inputs: '[{"type": "long", "name": "age", "required": true}, {"type": "long", "name":
+    "alcohol_consumption_per_week", "required": true}, {"type": "long", "name": "physical_activity_minutes_per_week",
+    "required": true}, {"type": "double", "name": "diet_score", "required": true},
+    {"type": "double", "name": "sleep_hours_per_day", "required": true}, {"type":
+    "double", "name": "screen_time_hours_per_day", "required": true}, {"type": "double",
+    "name": "bmi", "required": true}, {"type": "double", "name": "waist_to_hip_ratio",
+    "required": true}, {"type": "long", "name": "systolic_bp", "required": true},
+    {"type": "long", "name": "diastolic_bp", "required": true}, {"type": "long", "name":
+    "heart_rate", "required": true}, {"type": "long", "name": "cholesterol_total",
+    "required": true}, {"type": "long", "name": "hdl_cholesterol", "required": true},
+    {"type": "long", "name": "ldl_cholesterol", "required": true}, {"type": "long",
+    "name": "triglycerides", "required": true}, {"type": "long", "name": "family_history_diabetes",
+    "required": true}, {"type": "long", "name": "hypertension_history", "required":
+    true}, {"type": "long", "name": "cardiovascular_history", "required": true}, {"type":
+    "double", "name": "cardio_risk_score", "required": true}, {"type": "double", "name":
+    "cholesterol_risk", "required": true}, {"type": "double", "name": "lifestyle_risk",
+    "required": true}, {"type": "double", "name": "diet_activity_balance", "required":
+    true}, {"type": "double", "name": "metabolic_index", "required": true}, {"type":
+    "double", "name": "overall_health_risk", "required": true}, {"type": "double",
+    "name": "age_bmi", "required": true}, {"type": "long", "name": "age_bp", "required":
+    true}, {"type": "double", "name": "bmi_cholesterol", "required": true}, {"type":
+    "long", "name": "family_history_age", "required": true}, {"type": "double", "name":
+    "log_physical_activity", "required": true}, {"type": "double", "name": "log_triglycerides",
+    "required": true}, {"type": "long", "name": "age_squared", "required": true},
+    {"type": "double", "name": "bmi_squared", "required": true}, {"type": "long",
+    "name": "high_bp_flag", "required": true}, {"type": "long", "name": "high_cholesterol_flag",
+    "required": true}, {"type": "long", "name": "obese_flag", "required": true}, {"type":
+    "long", "name": "sedentary_flag", "required": true}, {"type": "long", "name":
+    "medical_history_score", "required": true}, {"type": "boolean", "name": "gender_Male",
+    "required": true}, {"type": "boolean", "name": "gender_Other", "required": true},
+    {"type": "boolean", "name": "ethnicity_Black", "required": true}, {"type": "boolean",
+    "name": "ethnicity_Hispanic", "required": true}, {"type": "boolean", "name": "ethnicity_Other",
+    "required": true}, {"type": "boolean", "name": "ethnicity_White", "required":
+    true}, {"type": "boolean", "name": "education_level_Highschool", "required": true},
+    {"type": "boolean", "name": "education_level_No formal", "required": true}, {"type":
+    "boolean", "name": "education_level_Postgraduate", "required": true}, {"type":
+    "boolean", "name": "income_level_Low", "required": true}, {"type": "boolean",
+    "name": "income_level_Lower-Middle", "required": true}, {"type": "boolean", "name":
+    "income_level_Middle", "required": true}, {"type": "boolean", "name": "income_level_Upper-Middle",
+    "required": true}, {"type": "boolean", "name": "smoking_status_Former", "required":
+    true}, {"type": "boolean", "name": "smoking_status_Never", "required": true},
+    {"type": "boolean", "name": "employment_status_Retired", "required": true}, {"type":
+    "boolean", "name": "employment_status_Student", "required": true}, {"type": "boolean",
+    "name": "employment_status_Unemployed", "required": true}, {"type": "boolean",
+    "name": "bmi_category_normal", "required": true}, {"type": "boolean", "name":
+    "bmi_category_overweight", "required": true}, {"type": "boolean", "name": "bmi_category_obese",
+    "required": true}, {"type": "boolean", "name": "age_group_middle", "required":
+    true}, {"type": "boolean", "name": "age_group_senior", "required": true}, {"type":
+    "boolean", "name": "age_group_elderly", "required": true}, {"type": "boolean",
+    "name": "bp_category_elevated", "required": true}, {"type": "boolean", "name":
+    "bp_category_high", "required": true}, {"type": "boolean", "name": "bp_category_very_high",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-05 08:19:50.485072'

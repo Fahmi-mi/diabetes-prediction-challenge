@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Axioo/Documents/Fahmi/ai/ml/diabetes-prediction-challenge/logs/761437250831438087/f6ddb687945348c4b9021ec4229e60c1/artifacts
+end_time: 1764921469113
+entry_point_name: ''
+experiment_id: '761437250831438087'
+lifecycle_stage: active
+run_id: f6ddb687945348c4b9021ec4229e60c1
+run_name: carefree-moose-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764921438677
+status: 3
+tags: []
+user_id: Axioo
